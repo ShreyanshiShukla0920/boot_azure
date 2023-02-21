@@ -5,11 +5,9 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-<<<<<<< HEAD
+
 		<version>2.7.6</version>
-=======
-		<version>2.7.8</version>
->>>>>>> c94e6f41acc97cad6b3dbb1d84b5c5c06f5d7e34
+
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.azurespring</groupId>
