@@ -13,12 +13,12 @@ public class HomeController {
 	//lst.add(new Employee(1,"abc","IT",500000));
 	@GetMapping("/workers")
 	public List<Employee> greeting() {
-		/*lst.add(new Employee(1,"abc","IT",500000));
+		lst.add(new Employee(1,"abc","IT",500000));
 		lst.add(new Employee(2,"ranju","QA",800000));
 		lst.add(new Employee(3,"rani","Business",600000));
 		lst.add(new Employee(4,"raja","Software",1000000));
    
-    */
+    
   
 		return lst;
 	}
